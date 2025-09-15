@@ -67,6 +67,9 @@ A sample dataset is included in the repository.
 During training, checkpoints are automatically saved (model state, optimizer state, vocabulary).  
 Placing the checkpoint file in the same directory as the main script is sufficient for it to be loaded automatically at program startup.  
 
+Pretrained checkpoints can be downloaded here:  
+👉 [Google Drive – NanoGPT Marinello Checkpoints](https://drive.google.com/drive/folders/1ujhGUPyym-6Tz-gKI7FQYB2B36fxcPlF?usp=sharing)  
+
 ---
 
 ## Technical details
