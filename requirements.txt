@@ -1,0 +1,8 @@
+torch
+torchvision
+torchaudio
+openai-whisper
+gTTS
+pygame
+gradio
+psutil
